@@ -13,6 +13,7 @@ set(INCLUDES
   src/${PROJECT_NAME}/Table.h
   src/${PROJECT_NAME}/StringAligner.h
   src/${PROJECT_NAME}/Cell.h
+  src/${PROJECT_NAME}/Fwd.h
   )
 
 set(SOURCES
