@@ -3,6 +3,7 @@
 #include<StringAligner/stringaligner_export.h>
 #include<StringAligner/Fwd.h>
 #include<memory>
+#include<iostream>
 
 class STRINGALIGNER_EXPORT stringAligner::Cell{
   public:
